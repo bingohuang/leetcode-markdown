@@ -1,1 +1,1 @@
-## LeetCode Markdown 题集
+## LeetCode Markdown 普通题集
